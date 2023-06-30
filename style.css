@@ -1,0 +1,17 @@
+h1{
+    color: rgb(95, 195, 253);
+    background-color: beige;
+}
+h2{
+    color: rgb(144, 60, 198);
+    background-color: rgb(255, 247, 235);
+}
+h3{
+    color: rgba(121, 121, 240, 0.842);
+    background-color: rgba(231, 231, 207, 0.753);
+}
+p{
+    color: rgb(105, 220, 122);
+    background-color: azure;
+    font-family: sans-serif;
+}
